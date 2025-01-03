@@ -2,7 +2,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center; margin-top: 20px; ">
   <div style="border: 2px solid #ccc; border-radius: 15px; padding: 10px; display: inline-block;">
-    <img src="https://scontent.fcmb2-2.fna.fbcdn.net/v/t39.30808-6/302273640_119912737482676_7499403690105497320_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=b6lmG3Sap8sQ7kNvgEmYqh2&_nc_ht=scontent.fcmb2-2.fna&_nc_gid=Az-yeDAY95uz7SZOu8pJCyi&oh=00_AYAsyrdmDSEqbO0CGhSCtClSqlPL2647lhWlS_E1vT22pg&oe=66F83BC3" alt="ENVIIZ Logo" style="border-radius: 105px; width: 100px;">
+    <img src="https://enviiz.com/assets/images/enviiz.png" alt="ENVIIZ Softwares (PVT) LTD" style="border-radius: 100px; width: 100px;">
   </div>
 </div>
 
