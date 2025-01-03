@@ -2,7 +2,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center; margin-top: 20px; ">
   <div style="border: 2px solid #ccc; border-radius: 15px; padding: 10px; display: inline-block;">
-    <img src="https://enviiz.com/assets/images/enviiz.png" alt="ENVIIZ Softwares (PVT) LTD" style="width: 200px;">
+    <img src="https://enviiz.com/assets/images/enviiz.png" alt="ENVIIZ Softwares (PVT) LTD" style="width: 200px; border-radius:50%;">
   </div>
 </div>
 
